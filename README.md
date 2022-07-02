@@ -10,6 +10,5 @@
 
 ---
 # PyChain Ledger Screenshot
-
-![Screenshot1](screenshot1.png)
-![Screenshot2](screenshot2.png)
+<img width="1425" alt="Screen Shot 2022-07-02 at 9 19 18 AM" src="https://user-images.githubusercontent.com/53786396/177002827-7410fcc5-eee8-4505-a993-ab8cdec6610a.png">
+<img width="1414" alt="Screen Shot 2022-07-02 at 9 19 02 AM" src="https://user-images.githubusercontent.com/53786396/177002828-1f2f5852-48e6-48af-84d3-b046fbb6bffc.png">
