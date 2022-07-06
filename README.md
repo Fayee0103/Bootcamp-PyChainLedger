@@ -10,5 +10,5 @@
 
 ---
 # PyChain Ledger Screenshot
-<img width="1425" alt="Screen Shot 2022-07-02 at 9 19 18 AM" src="https://user-images.githubusercontent.com/53786396/177002827-7410fcc5-eee8-4505-a993-ab8cdec6610a.png">
-<img width="1414" alt="Screen Shot 2022-07-02 at 9 19 02 AM" src="https://user-images.githubusercontent.com/53786396/177002828-1f2f5852-48e6-48af-84d3-b046fbb6bffc.png">
+<img width="1414" alt="Screen Shot 2022-07-02 at 9 19 02 AM" src="https://user-images.githubusercontent.com/53786396/177002919-73a10291-886c-404e-a8ab-260144687a88.png">
+<img width="1425" alt="Screen Shot 2022-07-02 at 9 19 18 AM" src="https://user-images.githubusercontent.com/53786396/177002922-42730447-be3f-4d4b-a795-c5ad9485035e.png">
